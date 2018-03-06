@@ -49,7 +49,7 @@ const Buttons = () => {
             <tr><td><Button value="4" /></td><td><Button value="5" /></td><td><Button value="6" /></td></tr>
             <tr><td><Button value="7" /></td><td><Button value="8" /></td><td><Button value="9" /></td></tr>
             <tr><td><Button value="0" /></td><td><Button value="+" /></td><td><Button value="-" /></td></tr>
-            <tr><td><Button value="=" /></td></tr>            
+            <tr><td><Button value="d" /></td><td><Button value="=" /></td></tr>            
           </table>
         </div>
     )
